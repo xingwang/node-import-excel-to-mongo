@@ -1,0 +1,28 @@
+{
+  "name": "node-import-excel-to-mongo",
+  "version": "1.0.0",
+  "description": "Data importer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingwang/node-import-excel-to-mongo.git"
+  },
+  "keywords": [
+    "node",
+    "excel",
+    "mongo"
+  ],
+  "author": "Xing Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingwang/node-import-excel-to-mongo/issues"
+  },
+  "homepage": "https://github.com/xingwang/node-import-excel-to-mongo#readme",
+  "dependencies": {
+    "mongo-xlsx": "^1.0.12",
+    "monk": "^4.0.0"
+  }
+}
